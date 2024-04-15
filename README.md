@@ -29,7 +29,12 @@ npm i
 
 ## Usage
 
-* Download source code on local device * Run `npm i` to download dependencies * Then run `node index.js` and answer the questions
+This video demonstarates how to use this application:
+[Demo Video](https://drive.google.com/file/d/1Ts2NG5_4sT2ynKAeXQ-DSuhJPl5XjoiI/view?usp=sharing)
+  
+* Download source code on local device
+* Run `npm i` to download dependencies
+* Then run `node index.js` and answer the questions.
 
 ## Contributing
 
@@ -53,4 +58,4 @@ Check out the other projects I have worked on at [Austin-Marlatt](https://github
 
  ## License
   
-  This project is licenseed under MIT.
+  This project is licensed under MIT.
