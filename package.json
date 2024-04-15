@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Command line based, automatic README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin-Marlatt/README-Generator.git"
+  },
+  "author": "Austin-Marlatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Austin-Marlatt/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Austin-Marlatt/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
+}
